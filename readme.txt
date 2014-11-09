@@ -7,15 +7,15 @@ Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a gallery carousel on product archives that is revealed on hover.
+Adds a gallery carousel on woocommerce archives archives that is revealed on hover.
 
 == Description ==
 
-A very simple plugin that adds a gallery carousel archives that is revealed when you hover over the main product image.
+A very simple woocommerce plugin that adds a gallery carousel on woocommerce archives that is revealed when you hover over the main product image.
 
 This plugin is ideal if you'd like to display more than one image on product archives.
 
-Please feel free to contribute on <a href="https://github.com/mladjom/woocommerce-product-hover-carousel">github</a>.
+Please feel free to contribute on [github](https://github.com/mladjom/woocommerce-product-hover-carousel) 
 
 I found inspiration on this site http://www.zalando.se/damklader-trojor-koftor/ 
 
