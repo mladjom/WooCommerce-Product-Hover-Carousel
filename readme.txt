@@ -15,7 +15,7 @@ A very simple woocommerce plugin that adds a gallery carousel on woocommerce arc
 
 This plugin is ideal if you'd like to display more than one image on product archives.
 
-Please feel free to contribute on [github](https://github.com/mladjom/woocommerce-product-hover-carousel) 
+Please feel free to contribute on github https://github.com/mladjom/woocommerce-product-hover-carouse 
 
 I found inspiration on this site http://www.zalando.se/damklader-trojor-koftor/ 
 
