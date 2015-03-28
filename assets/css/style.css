@@ -6,6 +6,7 @@
 }
 .previewslider {
     display: none;
+    cursor: pointer;
     position: absolute;
     margin-top:20px;
     margin-bottom:0px;
