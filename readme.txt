@@ -31,8 +31,8 @@ Please feel free to contribute on github https://github.com/mladjom/woocommerce-
 
 == Screenshots ==
 
-1. Plugin editing interface.
-2. Plugin in action.
+1. Plugin in action.
+2. Plugin editing interface.
 
 == Changelog ==
 
