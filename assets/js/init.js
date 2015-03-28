@@ -1,17 +1,13 @@
 jQuery(document).ready(function ($) {
-    jQuery(".thumbnail .thumbnails").jCarouselLite({
-        vertical: true,
-        visible: 4,
+    $(".products .product").hover(function () {
+        console.log($(this));
+        $(this).find('.previewslider').css("display", "block");
     });
-
-    $(".thumbnail .thumbnails img").hover(function () {
-        $(this).parents('div.thumbnail').find('img.attachment-shop_catalog').attr("src", $(this).parent().attr("data-src"));
-    });
-    $(".thumbnail").hover(function () {
-        $(this).find('.thumbnails').css( "visibility", "visible");
-    });
-        $(".thumbnail").mouseleave(function () {
-        $(this).find('.thumbnails').css("visibility", "hidden");
+    $(".products .product").mouseleave(function () {
+        $(this).find('.previewslider').css("display", "none");
+    });    
+    $(".products .product .previewslider img").hover(function () {
+        $(this).parents('.product').find('a img').first().attr("src", $(this).parent().attr("data-href"));
     });
 });
 
