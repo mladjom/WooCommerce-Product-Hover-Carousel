@@ -19,7 +19,7 @@ This plugin is ideal if you'd like to display more than one image on shop and pr
 
 Configure Hover Carousel from WooCommerce Product Settings.
 
-Please feel free to contribute on github https://github.com/mladjom/woocommerce-product-hover-carouse 
+Please feel free to contribute on github https://github.com/mladjom/WooCommerce-Product-Hover-Carousel
 
 == Installation ==
 
